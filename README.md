@@ -10,4 +10,4 @@ To use this program, update the strings in the code and run it to obtain the LCS
 
 Enjoy exploring the different methods to compute LCS and compare their efficiencies!
 
-Feel free to update the strings (x, y, and z) in the code to find the LCS between your desired sequences.
+>Feel free to update the strings (x, y, and z) in the code to find the LCS between your desired sequences.
